@@ -5,6 +5,7 @@
             "name": "Forbole",
             "description": "Co-building Interchain - We’re validators, builders & contributors, we provide enterprise-level staking service to both whales and fish",
             "profile_image": "https://forbole-val.s3.ap-east-1.amazonaws.com/forbole-logo-icon.png",
+            "website": "https://forbole.com",
             "contact": {
                 "twitter": "@forbole",
                 "email": "validator@forbole.com"
