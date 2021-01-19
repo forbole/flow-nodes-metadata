@@ -10,6 +10,28 @@
                 "twitter": "@forbole",
                 "email": "validator@forbole.com"
             }
+        },
+        {
+            "node_id": "79949f163dac6b72ab72c1d12b9677d71dd9367f7331d59425b485050c8712d9",
+            "name": "Accomplice",
+            "description": "",
+            "profile_image": "",
+            "website": "",
+            "contact": {
+                "twitter": "",
+                "email": ""
+            }
+        },
+        {
+            "node_id": "f3b72c50794c29319f0f77f0c7d623662eb15253c291a5360d095a4ea282fadb",
+            "name": "Alvalor",
+            "description": "",
+            "profile_image": "",
+            "website": "",
+            "contact": {
+                "twitter": "",
+                "email": ""
+            }
         }
     ]
 }
