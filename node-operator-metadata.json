@@ -1124,7 +1124,7 @@
         },
         {
             "node_id": "dc3054cae816874d7dbbe838a41ef97c8a01b44643bffc82afe3a8228eed29fd",
-            "name": "Metapurse",
+            "name": "Huobi",
             "description": "",
             "profile_image": "",
             "website": "",
@@ -1136,6 +1136,17 @@
         {
             "node_id": "f8af31c7c3294b246f34040e5685c351e89f1c1edf6c64f93f7babd73d149951",
             "name": "NFT42",
+            "description": "",
+            "profile_image": "",
+            "website": "",
+            "contact": {
+                "twitter": "",
+                "email": ""
+            }
+        },
+        {
+            "node_id": "88fbac6c7427f24b616aa8d8a6a18632f51b3411ad774a1d59c00c29ad5134fb",
+            "name": "NuFi",
             "description": "",
             "profile_image": "",
             "website": "",
