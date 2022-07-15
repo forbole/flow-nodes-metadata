@@ -23,17 +23,6 @@
             }
         },
         {
-            "node_id": "f3b72c50794c29319f0f77f0c7d623662eb15253c291a5360d095a4ea282fadb",
-            "name": "Alvalor",
-            "description": "",
-            "profile_image": "",
-            "website": "",
-            "contact": {
-                "twitter": "",
-                "email": ""
-            }
-        },
-        {
             "node_id": "f7422f2d3296ede4d1efb36ec55e3fd93702c061f7ee627881f0b3007beff2ed",
             "name": "Alxo",
             "description": "",
@@ -47,6 +36,61 @@
         {
             "node_id": "a67ca1afd47c58358c656dffa2e5585d80b01371866e5634b68dcbab090b9b6f",
             "name": "Artemis",
+            "description": "",
+            "profile_image": "",
+            "website": "",
+            "contact": {
+                "twitter": "",
+                "email": ""
+            }
+        },
+        {
+            "node_id": "2cfab7e9163475282f67186b06ce6eea7fa0687d25dd9c7a84532f2016bc2e5e",
+            "name": "Blocto",
+            "description": "",
+            "profile_image": "",
+            "website": "",
+            "contact": {
+                "twitter": "",
+                "email": ""
+            }
+        },
+        {
+            "node_id": "21b21ad1ddb5e3002cc6a3faa55e23d70db014ee229c213f7a43769789125536",
+            "name": "Blocto",
+            "description": "",
+            "profile_image": "",
+            "website": "",
+            "contact": {
+                "twitter": "",
+                "email": ""
+            }
+        },
+        {
+            "node_id": "62de4fa4b6a05b8beb5868a5259caca4efa966aa0cb867fdd776c73abe9370ad",
+            "name": "Chainlayer",
+            "description": "",
+            "profile_image": "",
+            "website": "",
+            "contact": {
+                "twitter": "",
+                "email": ""
+            }
+        },
+        {
+            "node_id": "050dfd9898470c042e9190b8a9136122dee26dad438cf5b49307f55fe4dbcc98",
+            "name": "Chainlayer",
+            "description": "",
+            "profile_image": "",
+            "website": "",
+            "contact": {
+                "twitter": "",
+                "email": ""
+            }
+        },
+        {
+            "node_id": "d4ffda5cbdea87f6464d37c7ab079d3f8589454d2de2b6bce1cc6c6f20829dc2",
+            "name": "Chainlayer",
             "description": "",
             "profile_image": "",
             "website": "",
@@ -551,63 +595,8 @@
             }
         },
         {
-            "node_id": "2cfab7e9163475282f67186b06ce6eea7fa0687d25dd9c7a84532f2016bc2e5e",
-            "name": "Blocto",
-            "description": "",
-            "profile_image": "",
-            "website": "",
-            "contact": {
-                "twitter": "",
-                "email": ""
-            }
-        },
-        {
-            "node_id": "21b21ad1ddb5e3002cc6a3faa55e23d70db014ee229c213f7a43769789125536",
-            "name": "Blocto",
-            "description": "",
-            "profile_image": "",
-            "website": "",
-            "contact": {
-                "twitter": "",
-                "email": ""
-            }
-        },
-        {
             "node_id": "3b57e0ee2ece1f1dbefbd868d3eaac63b32a11df5b1a37d231145ea219055dde",
             "name": "Chainflow",
-            "description": "",
-            "profile_image": "",
-            "website": "",
-            "contact": {
-                "twitter": "",
-                "email": ""
-            }
-        },
-        {
-            "node_id": "62de4fa4b6a05b8beb5868a5259caca4efa966aa0cb867fdd776c73abe9370ad",
-            "name": "Chainlayer",
-            "description": "",
-            "profile_image": "",
-            "website": "",
-            "contact": {
-                "twitter": "",
-                "email": ""
-            }
-        },
-        {
-            "node_id": "050dfd9898470c042e9190b8a9136122dee26dad438cf5b49307f55fe4dbcc98",
-            "name": "Chainlayer",
-            "description": "",
-            "profile_image": "",
-            "website": "",
-            "contact": {
-                "twitter": "",
-                "email": ""
-            }
-        },
-        {
-            "node_id": "d4ffda5cbdea87f6464d37c7ab079d3f8589454d2de2b6bce1cc6c6f20829dc2",
-            "name": "Chainlayer",
             "description": "",
             "profile_image": "",
             "website": "",
